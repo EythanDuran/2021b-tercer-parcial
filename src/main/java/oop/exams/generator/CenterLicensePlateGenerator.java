@@ -5,4 +5,5 @@ public class CenterLicensePlateGenerator implements LicensePlateGenerator {
     public String generate(String state) {
         return null;
     }
+
 }
